@@ -2,10 +2,9 @@
 
 Sequence-based deep learning model for predicting protein–ligand binding affinity using a dual-input fusion architecture.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-btn.svg)](https://colab.research.google.com/github/Hesan1997/SeqBinder/blob/main/notebooks/model_training.ipynb)
+[Open in Google Colab](https://colab.research.google.com/github/Hesan1997/SeqBinder/blob/main/notebooks/model_training.ipynb)
 > _Click the button above to launch an example Notebook in Google Colab._
 
----
 
 ## Table of Contents
 1. [Overview](#overview)  
@@ -17,12 +16,10 @@ Sequence-based deep learning model for predicting protein–ligand binding affin
 5. [License](#license)  
 6. [Contact](#contact)
 
----
 
 ## Overview
 SeqBinder is a sequence-based deep learning model designed to predict protein–ligand binding affinity. It uses a **dual-input fusion architecture** that incorporates distinct branches to process protein sequences and ligand SMILES, merging them in the final layers to produce a binding affinity score.
 
----
 
 ## Model Architecture
 The SeqBinder model consists of three main components: a **Protein Branch**, a **Compound Branch**, and a **Fusion Module**.
@@ -47,17 +44,14 @@ The SeqBinder model consists of three main components: a **Protein Branch**, a *
   1. Several fully connected (dense) layers with ReLU activation and dropout.  
   2. Outputs a single scalar value (predicted binding affinity).
 
----
 
 ## Contributing
 Contributions are welcome! Please open issues or submit pull requests for bug fixes, improvements, or new features.
 
----
 
 ## License
 This project is licensed under the [Apache License, Version 2.0](LICENSE). Feel free to use and modify the code as permitted by the license.
 
----
 
 ## Contact
 Created by **Hesan Hashemi**.  
