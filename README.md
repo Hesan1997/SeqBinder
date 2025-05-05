@@ -2,7 +2,7 @@
 
 Sequence-based deep learning model for predicting protein–ligand binding affinity using a dual-input fusion architecture.
 
-[Open in Google Colab](https://colab.research.google.com/github/Hesan1997/SeqBinder/blob/main/notebooks/model_training.ipynb)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/Hesan1997/SeqBinder/blob/main/notebooks/model_training.ipynb)
 > _Click the button above to launch an example Notebook in Google Colab._
 
 
