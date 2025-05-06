@@ -1,4 +1,4 @@
-## SeqBinder (Pretrained Encoders Branch)  
+## SeqBinder (Transfer Learning with Frozen Transformer Encoders)  
 
 A transfer learning–based model for predicting protein–ligand binding affinity using frozen pretrained encoders: **ESM-2** for protein sequences and **ChemBERTa** for molecular representations.
 
