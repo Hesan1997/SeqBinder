@@ -1,5 +1,5 @@
 ## SeqBinder (Pretrained Encoders Branch)  
-Transfer learning–based PL affinity prediction using frozen pretrained models (ESM-2 + ChemBERTa)
+A transfer learning–based model for predicting protein–ligand binding affinity using frozen pretrained encoders: **ESM-2** for protein sequences and **ChemBERTa** for molecular representations.
 
-[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/Hesan1997/SeqBinder/blob/main/notebooks/model_training.ipynb)
-> _Click the button above to launch an example Notebook in Google Colab._
+> **Note:** This branch is under active development. Features and architecture may evolve.
+
